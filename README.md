@@ -1,1 +1,1 @@
-# awesome-font-typography
+# A Curated List of Computational Font Typography Research!
