@@ -11,6 +11,9 @@ A curated collection of resources focused on computational font and typography r
 #### SIGGRAPH ASIA 2024
 - HFH-Font: Few-shot Chinese Font Synthesis with Higher Quality, Faster Speed, and Higher Resolution, [[paper]](https://arxiv.org/pdf/2410.06488v1)
 
+#### CVPR 2024
+- VecFusion: Vector Font Generation with Diffusion, [[paper]](https://arxiv.org/pdf/2312.10540) [[project]](https://vikastmz.github.io/VecFusion/)
+
 #### Eurographics 2024
 - FontCLIP: A Semantic Typography Visual-Language Model for Multilingual Font Applications, [[paper]](https://jdily.github.io/resource/fontclip/fontCLIP_paper_open.pdf) [[project]](https://yukistavailable.github.io/fontclip.github.io/) [[code]](https://github.com/yukistavailable/FontCLIP)
 
