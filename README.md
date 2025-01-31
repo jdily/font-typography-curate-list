@@ -17,9 +17,11 @@ A curated collection of resources focused on computational font and typography r
 #### SIGGRAPH 2023
 - Word-As-Image for Semantic Typography, [[[paper]](https://arxiv.org/pdf/2303.01818) [[project]](https://wordasimage.github.io/Word-As-Image-Page/) [[code]](https://github.com/Shiriluz/Word-As-Image)
 #### ICCV 2023
+- Joint Implicit Neural Representation for High-fidelity and Compact Vector Fonts, [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Joint_Implicit_Neural_Representation_for_High-fidelity_and_Compact_Vector_Fonts_ICCV_2023_paper.pdf) [[code]]() 
 - DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion, [[[paper]](https://arxiv.org/abs/2303.09604) [[project]](https://ds-fusion.github.io/) [[code]](https://github.com/tmaham/DS-Fusion)
 #### CVPR 2023
 - DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality, [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DeepVecFont-v2_Exploiting_Transformers_To_Synthesize_Vector_Fonts_With_Higher_Quality_CVPR_2023_paper.pdf) [[code]](https://github.com/yizhiwang96/deepvecfont-v2)
+- DualVector: Unsupervised Vector Font Synthesis With Dual-Part Representation, [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_DualVector_Unsupervised_Vector_Font_Synthesis_With_Dual-Part_Representation_CVPR_2023_paper.pdf) [[code]](https://github.com/thuliu-yt16/dualvector)
 
 #### SIGGRAPH 2022
 - StrokeStyles: Stroke-Based Segmentation and Stylization of Fonts [[paper]](https://doc.gold.ac.uk/autograff/post/papers/Berio-TOG2022.pdf) [[project]](https://doc.gold.ac.uk/autograff/post/papers/strokestyles_2022/)
