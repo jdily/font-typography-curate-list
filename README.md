@@ -21,6 +21,9 @@ A curated collection of resources focused on computational font and typography r
 #### CVPR 2023
 - DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality, [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DeepVecFont-v2_Exploiting_Transformers_To_Synthesize_Vector_Fonts_With_Higher_Quality_CVPR_2023_paper.pdf) [[code]](https://github.com/yizhiwang96/deepvecfont-v2)
 
+#### SIGGRAPH 2022
+- StrokeStyles: Stroke-Based Segmentation and Stylization of Fonts [[paper]](https://doc.gold.ac.uk/autograff/post/papers/Berio-TOG2022.pdf) [[project]](https://doc.gold.ac.uk/autograff/post/papers/strokestyles_2022/)
+- 
 #### SIGGRAPH ASIA 2021
 - DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning [[paper]](https://arxiv.org/pdf/2110.06688) [[code]](https://github.com/yizhiwang96/deepvecfont)
 #### SIGGRAPH 2014
