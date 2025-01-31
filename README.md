@@ -30,3 +30,9 @@ A curated collection of resources focused on computational font and typography r
 - Learning a Manifold of Fonts, [[paper]](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/papers/siggraph14_learning_fonts.pdf) [[project]](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html)
 - Exploratory font selection using crowdsourced attributes, [[paper]](https://www.dgp.toronto.edu/~donovan/font/fontSelection.pdf) [[project]](https://www.dgp.toronto.edu/~donovan/font/) [[attribute dataset]](https://www.dgp.toronto.edu/~donovan/font/attribute.zip)
 
+#### Early works
+- Constraint-Based approach for Automatic Hinting of Digital Typefaces, [[project]](https://faculty.runi.ac.il/arik/site/auto-hint-type.asp)
+- Compacting Oriental Fonts by Optimizing Parametric Elements, [[project]](https://faculty.runi.ac.il/arik/site/oriental-fonts.asp)
+- Quality Enhancements of Digital Typeface Boundary Representations, [[project]](https://faculty.runi.ac.il/arik/site/type-boundary.asp)
+- Extraction of Typographic Elements from Outline Representations of Fonts, [[project]](https://faculty.runi.ac.il/arik/site/type-elements.asp)
+
